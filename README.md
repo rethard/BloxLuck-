@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./channels4_banner.jpg" alt="Logo" width="300" height="300">
+</p>
+
 <h2 align="center">BloxLuck Winner</h2>
 
 <p align="center">
@@ -8,14 +12,14 @@
 
 ---
 
-## 📖 About
+## :book: About
 
 **Roblox** This is a BloxLuck Winner.
-> ⚠️ Note: You Accept the Usage Responsibilities.
+> :warning: Note: You Accept the Usage Responsibilities.
 
 ---
 
-## 🔧 Installation
+## :wrench: Installation
 
 1. **Download** the Bloxwin release.
 2. **Extract** the ZIP archive.
@@ -24,6 +28,6 @@
 5. Click **"Load unpacked"** and select the extracted folder.
 
 
-## 📜 License
+## :scroll: License
 
 Distributed under the MIT License. See [LICENSE](/LICENSE) for details.
