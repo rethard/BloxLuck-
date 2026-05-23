@@ -15,7 +15,6 @@
 ## :book: About
 
 **Roblox** This is a BloxLuck Winner.
-> :warning: Note: You Accept the Usage Responsibilities.
 
 ---
 
@@ -31,3 +30,5 @@
 ## :scroll: License
 
 Distributed under the MIT License. See [LICENSE](/LICENSE) for details.
+
+> :warning: Note: You Accept the Usage Responsibilities.
