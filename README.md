@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./channels4_banner.jpg" alt="Logo" width="300" height="300">
+  <img src="./channels4_banner.jpg" alt="Logo" width="1000" height="1000">
 </p>
 
 <h2 align="center">BloxLuck Winner</h2>
